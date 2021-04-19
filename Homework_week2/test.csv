@@ -1,0 +1,11 @@
+vegetarian,glutenFree,diaryFree,veryHealthy,healthScore,aggregateLikes,id,title,pricePerServing,readyInMinutes,servings,sourceUrl
+False,False,False,False,4.0,20,665182,White Chocolate Macadamia Banana Bread,105.3,45,8,https://www.foodista.com/recipe/2SRKJZC6/white-chocolate-macadamia-banana-bread
+False,True,True,True,62.0,14,642863,Filipino Egg Rolls,1184.09,45,1,https://www.foodista.com/recipe/JHNRHXPC/filipino-egg-rolls
+True,False,True,False,2.0,18,64694,Gingerbread,40.34,45,14,https://www.foodista.com/recipe/ZT6VVCSS/gingerbread
+False,True,True,True,100.0,57,715446,Slow Cooker Beef Stew,293.64,490,6,http://www.pinkwhen.com/slow-cooker-beef-stew-recipe/
+False,True,False,False,12.0,34,658967,Saffron Chicken Tikka,143.98,45,3,https://www.foodista.com/recipe/GV8J2V28/saffron-chicken-tikka
+True,True,True,False,9.0,14,641958,Easy Eggplant Curry,100.18,45,6,https://www.foodista.com/recipe/FGRJH88D/easy-eggplant-curry
+True,False,False,False,10.0,435,715378,Strawberry and Nutella Cobbler,178.02,45,3,http://www.pinkwhen.com/strawberry-and-nutella-cobbler/
+False,True,True,False,11.0,11,638488,Chicken-Tortilla Chip Soup,109.32,45,8,https://www.foodista.com/recipe/CGYQCRH6/chicken-tortilla-chip-soup
+False,True,False,False,6.0,15,646442,Healthy Black Forest Baked Oatmeal,85.27,45,3,https://www.foodista.com/recipe/KHN7KKGJ/healthy-black-forest-baked-oatmeal
+True,True,True,False,6.0,20,632155,Almond Nut Butter,43.63,45,16,https://www.foodista.com/recipe/LQJQ8PPH/almond-nut-butter
